@@ -1,0 +1,4 @@
+﻿  exo3.cpp
+C:\Users\emlyn\source\repos\TD1\Exo3\exo3.cpp(22,17): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\emlyn\source\repos\TD1\Exo3\exo3.cpp(27,16): warning C4804: '<': unsafe use of type 'bool' in operation
+  Exo3.vcxproj -> C:\Users\emlyn\source\repos\TD1\Debug\Exo3.exe

@@ -1,0 +1,5 @@
+﻿  exo2.cpp
+C:\Users\emlyn\source\repos\TD1\Exo2\exo2.cpp(23,17): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\emlyn\source\repos\TD1\Exo2\exo2.cpp(28,16): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\emlyn\source\repos\TD1\Exo2\exo2.cpp(35,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Exo2.vcxproj -> C:\Users\emlyn\source\repos\TD1\Debug\Exo2.exe
